@@ -1,30 +1,27 @@
 # 👋 Gunter Blaz
 
-Estudiante de ASIR especializado en ciberseguridad y sistemas.
+Estudiante de ASIR especializado en redes y despliegue de servicios.
 
-## 🧠 Áreas principales
-- Redes
-- Sistemas Operativos
-- Ciberseguridad
-- Bases de Datos
+---
 
-## 🚀 Proyectos destacados
+## 🌐 Redes y Servicios
 
-### 🌐 Redes
-- Proxmox LAB (NAT + iptables)
+- 🔹 Proxmox LAB (NAT + iptables)
+- 🔹 Docker (contenedores y puertos)
+- 🔹 Mattermost (servidor + PostgreSQL)
+- 🔹 Ejabberd (mensajería XMPP)
+- 🔹 Jellyfin (servidor multimedia)
 
-### 🖥️ Sistemas
-- Mattermost + PostgreSQL
-- WebDAV + RAID
+---
 
-### 🔐 Ciberseguridad
-- OpenVPN en pfSense
+## 🧠 Qué demuestro
 
-### 🗄️ Bases de Datos
-- Triggers y procedimientos almacenados
+- Configuración de redes
+- Despliegue de servicios en Linux
+- Gestión de contenedores
+- Resolución de errores reales
 
-## 📂 GitHub
-👉 https://github.com/GunterBlazC
+---
 
-## 📖 Documentación (GitBook)
-👉 (añadirás el link luego)
+## 📖 Documentación
+👉 GitBook (cuando lo termines)
