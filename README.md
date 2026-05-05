@@ -1,6 +1,6 @@
 # 👋 Gunter Blaz
 
-Estudiante de ASIR especializado en ciberseguridad y sistemas.
+Estudiante de ASIR especializado en redes y despliegue de servicios en entornos Linux.
 
 ---
 
@@ -15,7 +15,10 @@ Estudiante de ASIR especializado en ciberseguridad y sistemas.
 ### 🔹 Servidores y aplicaciones
 - [Mattermost (servidor + PostgreSQL)](https://github.com/GunterBlazC/Mattermost)
 - [Ejabberd (mensajería XMPP)](https://github.com/GunterBlazC/Ejabberd)
+
+### 🔹 Streaming y multimedia
 - [Jellyfin (servidor multimedia)](https://github.com/GunterBlazC/M0375B7A3-jellyfin)
+- [NGINX RTMP (streaming en tiempo real)](https://github.com/GunterBlazC/M0375B8A4-RTMP)
 
 ---
 
@@ -31,6 +34,7 @@ Estudiante de ASIR especializado en ciberseguridad y sistemas.
 - Despliegue de servicios en Linux
 - Uso de contenedores (Docker)
 - Gestión de servidores (web, mensajería, multimedia)
+- Implementación de streaming en tiempo real (RTMP)
 - Resolución de errores reales en entornos de laboratorio
 
 ---
