@@ -45,9 +45,15 @@ En esta sección documento configuraciones, despliegue de servicios, virtualizac
 
 # 📖 Documentación técnica
 
-👉 GitBook (en desarrollo)
+👉 [Ver portfolio técnico completo](https://github.com/GunterBlazC/Proyectos)
 
----
+Dentro del repositorio encontrarás documentación organizada por áreas:
+- Redes y Servicios
+- Sistemas Operativos
+- Ciberseguridad
+- Bases de Datos
+- Desarrollo Web
+- Cloud & DevOps
 
 # 📂 GitHub
 
