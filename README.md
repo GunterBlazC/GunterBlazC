@@ -1,10 +1,8 @@
-# 👋 Gunter Blaz
+# 👋 Gunter Davor Blaz
 
-Estudiante de ASIR con especialización en ciberseguridad, enfocado en redes, sistemas Linux y despliegue de servicios.
+Estudiante de ASIR con especialización en ciberseguridad, enfocado principalmente en el ámbito de la seguridad informática, redes y protección de infraestructuras IT.
 
-Actualmente estoy desarrollando laboratorios prácticos y entornos reales donde trabajo con virtualización, contenedores, redes y administración de servidores, con el objetivo de iniciar mi trayectoria profesional en el ámbito de la ciberseguridad y la infraestructura IT.
-
-En este portfolio documento proyectos técnicos, configuraciones y problemas reales resueltos durante mi formación y aprendizaje continuo.
+Actualmente continúo ampliando conocimientos mediante laboratorios prácticos y proyectos técnicos relacionados con ciberseguridad, administración de sistemas Linux, virtualización, redes y despliegue de servicios, con el objetivo de desarrollarme profesionalmente en entornos defensivos, infraestructura empresarial y seguridad de sistemas.
 
 ---
 
@@ -21,9 +19,9 @@ En este portfolio documento proyectos técnicos, configuraciones y problemas rea
 
 # 🚀 Tecnologías y entornos
 
-Tecnologías, herramientas y entornos con los que trabajo actualmente en laboratorios prácticos y proyectos técnicos orientados a infraestructura IT, virtualización y ciberseguridad.
+Tecnologías, herramientas y plataformas que utilizo actualmente en laboratorios prácticos, proyectos de infraestructura y entornos orientados a administración de sistemas, redes y ciberseguridad.
 
-Este portfolio está enfocado en demostrar conocimientos reales de administración de sistemas, redes, despliegue de servicios y resolución de incidencias en entornos similares a empresa.
+En esta sección documento configuraciones, despliegue de servicios, virtualización, segmentación de red, automatización básica y resolución de incidencias técnicas en escenarios similares a entornos empresariales.
 
 - Linux Administration
 - Windows Server
