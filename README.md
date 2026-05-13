@@ -10,12 +10,12 @@ En este portfolio documento proyectos técnicos, configuraciones y problemas rea
 
 # 📂 Áreas principales
 
-- 🌐 Redes y Servicios
-- 🖥️ Sistemas Operativos
-- 🔐 Ciberseguridad
-- 🗄️ Bases de Datos
-- 💻 Desarrollo Web
-- ☁️ Cloud & DevOps
+- 🌐 [Redes y Servicios](https://github.com/GunterBlazC/Proyectos/tree/main/Redes-y-Servicios)
+- 🖥️ [Sistemas Operativos](https://github.com/GunterBlazC/Proyectos/tree/main/Sistemas-Operativos)
+- 🔐 [Ciberseguridad](https://github.com/GunterBlazC/Proyectos/tree/main/Ciberseguridad)
+- 🗄️ [Bases de Datos](https://github.com/GunterBlazC/Proyectos/tree/main/Bases-de-Datos)
+- 💻 [Desarrollo Web](https://github.com/GunterBlazC/Proyectos/tree/main/Desarrollo-Web)
+- ☁️ [Cloud & DevOps](https://github.com/GunterBlazC/Proyectos/tree/main/Cloud-DevOps)
 
 ---
 
