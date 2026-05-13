@@ -21,6 +21,10 @@ En este portfolio documento proyectos técnicos, configuraciones y problemas rea
 
 # 🚀 Tecnologías y entornos
 
+Tecnologías, herramientas y entornos con los que trabajo actualmente en laboratorios prácticos y proyectos técnicos orientados a infraestructura IT, virtualización y ciberseguridad.
+
+Este portfolio está enfocado en demostrar conocimientos reales de administración de sistemas, redes, despliegue de servicios y resolución de incidencias en entornos similares a empresa.
+
 - Linux Administration
 - Windows Server
 - Docker & Containerization
