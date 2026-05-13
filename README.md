@@ -15,6 +15,7 @@ En este portfolio documento proyectos técnicos, configuraciones y problemas rea
 - 🔐 Ciberseguridad
 - 🗄️ Bases de Datos
 - 💻 Desarrollo Web
+- ☁️ Cloud & DevOps
 
 ---
 
