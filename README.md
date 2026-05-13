@@ -8,47 +8,35 @@ En este portfolio documento proyectos técnicos, configuraciones y problemas rea
 
 ---
 
-## 🌐 Redes y Servicios
+# 📂 Áreas principales
 
-### 🔹 Infraestructura y virtualización
-- [Proxmox LAB (NAT + iptables)](https://github.com/GunterBlazC/Proxmox_LAB)
-
-### 🔹 Contenedores y servicios
-- [Docker](https://github.com/GunterBlazC/Docker)
-
-### 🔹 Servidores y aplicaciones
-- [Mattermost (servidor + PostgreSQL)](https://github.com/GunterBlazC/Mattermost)
-- [Ejabberd (mensajería XMPP)](https://github.com/GunterBlazC/Ejabberd)
-
-### 🔹 Streaming y multimedia
-- [Jellyfin (servidor multimedia)](https://github.com/GunterBlazC/M0375B7A3-jellyfin)
-- [NGINX RTMP (streaming en tiempo real)](https://github.com/GunterBlazC/M0375B8A4-RTMP)
+- 🌐 Redes y Servicios
+- 🖥️ Sistemas Operativos
+- 🔐 Ciberseguridad
+- 🗄️ Bases de Datos
+- 💻 Desarrollo Web
 
 ---
 
-## 🧪 Otros proyectos
+# 🚀 Tecnologías y entornos
 
-- [FFmpeg + yt-dlp](https://github.com/GunterBlazC/M0375B7A2-ffmpeg-yt-dlp)
-
----
-
-## 🧠 Qué demuestro con estos proyectos
-
-- Configuración de redes (NAT, routing, servicios)
-- Despliegue de servicios en Linux
-- Uso de contenedores (Docker)
-- Gestión de servidores (web, mensajería, multimedia)
-- Implementación de streaming en tiempo real (RTMP)
-- Resolución de errores reales en entornos de laboratorio
+- Linux / Windows Server
+- Docker
+- Proxmox
+- pfSense
+- MySQL / PostgreSQL
+- HTML / CSS / PHP
+- NGINX / Apache
+- Virtualización y redes
 
 ---
 
-## 📖 Documentación
+# 📖 Documentación técnica
 
-👉 GitBook (próximamente)
+👉 GitBook (en desarrollo)
 
 ---
 
-## 📂 GitHub
+# 📂 GitHub
 
 👉 https://github.com/GunterBlazC
