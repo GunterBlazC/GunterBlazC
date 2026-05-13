@@ -1,6 +1,10 @@
 # 👋 Gunter Blaz
 
-Estudiante de ASIR especializado en redes y despliegue de servicios en entornos Linux.
+Estudiante de ASIR con especialización en ciberseguridad, enfocado en redes, sistemas Linux y despliegue de servicios.
+
+Actualmente estoy desarrollando laboratorios prácticos y entornos reales donde trabajo con virtualización, contenedores, redes y administración de servidores, con el objetivo de iniciar mi trayectoria profesional en el ámbito de la ciberseguridad y la infraestructura IT.
+
+En este portfolio documento proyectos técnicos, configuraciones y problemas reales resueltos durante mi formación y aprendizaje continuo.
 
 ---
 
