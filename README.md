@@ -20,14 +20,23 @@ En este portfolio documento proyectos técnicos, configuraciones y problemas rea
 
 # 🚀 Tecnologías y entornos
 
-- Linux / Windows Server
-- Docker
-- Proxmox
-- pfSense
+- Linux Administration
+- Windows Server
+- Docker & Containerization
+- Kubernetes (Learning)
+- Proxmox Virtualization
+- Networking & Routing
+- VLAN Segmentation
+- pfSense Firewall
+- VPN Infrastructure (OpenVPN)
+- Active Directory
+- SIEM Fundamentals
+- Bash Scripting
+- Git & GitHub
 - MySQL / PostgreSQL
-- HTML / CSS / PHP
 - NGINX / Apache
-- Virtualización y redes
+- Monitoring & Troubleshooting
+- Virtualization & Infrastructure
 
 ---
 
