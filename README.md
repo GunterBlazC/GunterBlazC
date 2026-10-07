@@ -1,4 +1,4 @@
-# 👋 Gunter Davor Blaz
+# 👋 Davor Gunter Blaz
 
 Estudiante de ASIR con especialización en ciberseguridad, enfocado principalmente en el ámbito de la seguridad informática, redes y protección de infraestructuras IT.
 
